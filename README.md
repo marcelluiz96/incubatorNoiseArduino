@@ -1,5 +1,6 @@
-# incubatorNoiseArduino
-College project which integrates a lolin v3 "nodeMCU", equipped with a sound detector and 3 LEDs, to Dweet.io for data interpretation in the JavaFX system in this repository, named 'incubatorManagerFX'.
+# Incubator Noise Meter for Arduino boards
+
+College project which integrates a lolin v3 "nodeMCU", equipped with a sound detector and 3 LEDs, to Dweet.io for data interpretation in the JavaFX system in another public repository of mine, named 'incubatorManagerFX'.
 The code provided is in C.
 
 ## Hardware
